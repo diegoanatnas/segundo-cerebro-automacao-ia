@@ -1,69 +1,70 @@
-# Segundo Cérebro Digital — Automação com n8n, IA e Python
+# 🤖 Segundo Cérebro Digital — Automação com n8n, IA e Python
 
-Projeto desenvolvido como parte do desafio de aprendizagem do bootcamp **Santander 2026 — Automação com n8n**, da Digital Innovation One (DIO).
+Projeto desenvolvido durante o **Bootcamp Santander 2026 — Automação com n8n**, da Digital Innovation One (DIO).
 
-## Objetivo
+O objetivo é construir um segundo cérebro de estudos no Gemini Notebook, utilizando fontes selecionadas para compreender conceitos de automação de workflows, inteligência artificial, APIs, webhooks, tratamento de dados e Python.
 
-Construir um segundo cérebro de estudos no Gemini Notebook, utilizando fontes selecionadas para compreender conceitos de automação de workflows, inteligência artificial, APIs, webhooks, tratamento de dados e Python.
+## 🎯 Objetivo do projeto
 
-## Ferramenta utilizada
+Organizar conhecimentos técnicos, documentar aprendizados e desenvolver uma base de estudos para a criação de automações práticas e projetos que possam integrar meu portfólio.
 
-- **Gemini Notebook:** organização das fontes, perguntas e respostas fundamentadas, além da geração de materiais de estudo.
-- **n8n:** plataforma de automação de workflows estudada no projeto.
+## 🛠️ Ferramentas utilizadas
+
+- **Gemini Notebook:** organização das fontes, perguntas, respostas fundamentadas e materiais de estudo.
+- **n8n:** plataforma de automação de workflows.
 - **Python:** linguagem complementar para compreender e desenvolver automações.
+- **GitHub:** versionamento e documentação dos materiais do projeto.
 
-## Fontes de estudo
+## 📚 Materiais do projeto
 
-As fontes adicionadas ao notebook incluem:
+Os materiais produzidos durante os estudos estão disponíveis na pasta [`materiais`](./materiais/).
 
-- **Santander Open Academy / DIO:** página de apresentação do bootcamp Santander — Automação com n8n.
-- **Documentação oficial do n8n:** workflows, gatilhos e nó HTTP Request.
-- **Tutorial oficial do Python:** conceitos e fundamentos da linguagem.
-- **Objetivo do projeto:** documento utilizado para definir o comportamento do segundo cérebro.
+- 🧠 [Mapa mental de automação com n8n](./materiais/NotebookLM%20Mind%20Map.png)
+- 📄 [Apresentação — Segundo Cérebro Digital (PDF)](./materiais/Segundo_C%C3%A9rebro_Digital.pdf)
+- 📝 [Documentação dos materiais de estudo](./materiais/README.md)
 
-As fontes foram escolhidas por sua relação com os objetivos de aprendizagem. A página institucional do bootcamp apresenta a proposta e a grade do programa; a documentação técnica complementa o estudo dos recursos das ferramentas.
+## 📖 Conteúdos estudados
 
-## Diretriz do segundo cérebro
+- Gatilhos e acionamento de workflows.
+- Webhooks e agendamentos.
+- Requisições HTTP e integração com APIs.
+- Métodos HTTP, parâmetros, cabeçalhos e autenticação.
+- Manipulação de dados JSON e corpo das requisições.
+- Paginação e transformação de dados.
+- Expressões e variáveis no n8n.
+- Segurança de conexões e gerenciamento de credenciais.
+- Fundamentos de Python aplicados à automação.
 
-O notebook deve priorizar as fontes selecionadas, explicar os conceitos em português claro, apresentar exemplos práticos e distinguir informações documentadas de sugestões de implementação. Quando as fontes forem insuficientes, deve indicar essa limitação em vez de inventar informações sobre as aulas da DIO.
-
-## Pergunta prática investigada
+## 🔎 Exemplo de problema investigado
 
 **Como construir um workflow no n8n que recebe uma solicitação, consulta uma API e trata os dados retornados?**
 
-A resposta estudada organizou a arquitetura em três partes:
+A arquitetura estudada envolve três etapas principais:
 
-1. Gatilho, como Webhook ou Manual Trigger.
-2. Consulta à API usando o nó HTTP Request.
-3. Tratamento dos dados com Edit Fields (Set) ou Code.
+1. **Gatilho:** iniciar o fluxo por meio de um Webhook ou Manual Trigger.
+2. **Requisição HTTP:** consultar uma API e enviar os parâmetros necessários.
+3. **Tratamento dos dados:** selecionar os campos relevantes e preparar o resultado para as próximas etapas.
 
-Essa arquitetura foi utilizada como exemplo de aprendizagem. Ela não representa, por si só, uma automação executada e validada.
+A implementação de cada workflow deverá ser documentada conforme os testes e resultados forem realizados.
 
-## Materiais produzidos
+## 🧭 Diretrizes de estudo
 
-- Mapa mental da arquitetura de automação com n8n.
-- Apresentação de slides gerada pelo Gemini Notebook.
-- Capturas de tela das perguntas, respostas e citações das fontes.
+- Priorizar fontes oficiais e documentação técnica.
+- Explicar os conceitos em português claro.
+- Utilizar exemplos práticos e exercícios progressivos.
+- Diferenciar informações documentadas de sugestões de implementação.
+- Registrar limitações quando as fontes disponíveis forem insuficientes.
 
-Os arquivos serão adicionados ao repositório após serem salvos e conferidos.
+## 🚀 Próximos passos
 
-## Tecnologias e conceitos estudados
-
-- Automação de workflows com n8n.
-- Inteligência artificial generativa e LLMs.
-- APIs REST e requisições HTTP.
-- Webhooks e gatilhos.
-- Expressões e transformação de dados.
-- Fundamentos de Python.
-
-## Notebook de estudos
-
-O link compartilhado do Gemini Notebook será adicionado aqui após a configuração e a verificação das permissões de acesso.
-
-## Aprendizados
-
-O projeto demonstra como selecionar fontes, formular perguntas, conferir citações e transformar informações técnicas em materiais de estudo. Também reforça a importância de verificar a qualidade das fontes e diferenciar conteúdo documentado de sugestões produzidas pela IA.
+- [ ] Documentar workflows práticos desenvolvidos no n8n.
+- [ ] Criar exemplos de integração com APIs.
+- [ ] Desenvolver scripts de apoio em Python.
+- [ ] Registrar testes, resultados e aprendizados.
+- [ ] Ampliar o portfólio com projetos de automação.
 
 ---
 
-Projeto educacional desenvolvido para fins de aprendizagem no bootcamp Santander 2026 — Automação com n8n, da DIO.
+**Status:** projeto de aprendizagem em desenvolvimento.
+
+**Formação:** Bootcamp Santander 2026 — Automação com n8n, DIO.
