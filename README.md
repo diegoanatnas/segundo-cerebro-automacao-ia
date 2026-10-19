@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o **Bootcamp Santander 2026 — Automação com n8n**, da Digital Innovation One (DIO).
 
-O objetivo é construir um segundo cérebro de estudos no Gemini Notebook, utilizando fontes selecionadas para compreender conceitos de automação de workflows, inteligência artificial, APIs, webhooks, tratamento de dados e Python.
+O objetivo deste projeto é construir um segundo cérebro de estudos no Gemini Notebook, reunindo fontes selecionadas, perguntas, respostas fundamentadas e materiais de apoio para compreender conceitos de automação de workflows, inteligência artificial, APIs, webhooks, tratamento de dados e Python. A implementação prática de automações será desenvolvida progressivamente durante o bootcamp.
 
 ## 🎯 Objetivo do projeto
 
@@ -14,6 +14,19 @@ Organizar conhecimentos técnicos, documentar aprendizados e desenvolver uma bas
 - **n8n:** plataforma de automação de workflows.
 - **Python:** linguagem complementar para compreender e desenvolver automações.
 - **GitHub:** versionamento e documentação dos materiais do projeto.
+
+## 🔎 Fontes selecionadas e confiabilidade
+
+As fontes foram reunidas no Gemini Notebook para apoiar o estudo dos conceitos de automação e programação.
+
+- **Curso Santander — Automação com n8n:** material do bootcamp, relacionado aos conteúdos e desafios da formação.
+- **HTTP Request | Nodes | n8n Docs:** documentação oficial do nó HTTP Request, útil para consultar seu funcionamento e suas configurações.
+- **n8n Docs:** documentação oficial da plataforma, utilizada como referência para os conceitos de automação.
+- **Objetivo do projeto:** registro do propósito e do escopo deste segundo cérebro de estudos.
+- **The Python Tutorial — Python 3.15.0 documentation (duas entradas):** documentação oficial da linguagem Python, útil para estudar seus fundamentos. As duas entradas aparecem na lista do notebook.
+- **Understand workflows | Build | n8n Docs:** documentação oficial voltada à compreensão e construção de workflows.
+
+**Critério de confiabilidade:** priorizar a documentação oficial das ferramentas e os materiais da formação. As respostas do Gemini Notebook devem ser verificadas pelas citações vinculadas às fontes; quando uma fonte não for suficiente para confirmar uma informação, isso deve ser indicado.
 
 ## 📚 Materiais do projeto
 
