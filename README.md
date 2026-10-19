@@ -68,3 +68,27 @@ A implementação de cada workflow deverá ser documentada conforme os testes e 
 **Status:** projeto de aprendizagem em desenvolvimento.
 
 **Formação:** Bootcamp Santander 2026 — Automação com n8n, DIO.
+
+## 🔎 Perguntas investigadas e evidências
+
+### 1. Como funciona um workflow no n8n?
+
+**Pergunta realizada:** Como funciona um workflow no n8n, qual é a função de um gatilho e como o nó HTTP Request pode ser utilizado para consultar uma API?
+
+**Resultado:** O Gemini Notebook explicou que um workflow conecta nós para automatizar processos. Os gatilhos iniciam a execução, e o nó HTTP Request permite realizar chamadas a APIs e utilizar os dados retornados nas etapas seguintes.
+
+**Fontes consultadas:** documentação oficial do n8n, documentação do nó HTTP Request e material do curso Santander — Automação com N8N.
+
+**Evidência:** `evidencia-pergunta-workflow.png` e `evidencia-resposta-http-request.png`.
+
+### 2. Como as respostas foram fundamentadas?
+
+As respostas foram elaboradas com base nas sete fontes selecionadas no Gemini Notebook. As citações apresentadas pelo notebook permitem consultar as referências utilizadas e verificar a origem das informações.
+
+**Evidência das citações:** `evidencia-citacao-n8n.png`.
+
+### 🔗 Acesso ao Gemini Notebook
+
+[Segundo Cérebro: Automação Inteligente com n8n, IA e Python](https://notebook.google.com/notebook/5518c046-bbdc-4f22-812c-efa8879d7f64)
+
+O notebook reúne as fontes de estudo, a diretriz de comportamento e as respostas utilizadas para consolidar os conhecimentos adquiridos durante o bootcamp Santander 2026 — Automação com n8n, da Digital Innovation One (DIO).
