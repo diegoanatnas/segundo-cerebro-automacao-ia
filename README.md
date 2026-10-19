@@ -60,6 +60,8 @@ A arquitetura estudada envolve três etapas principais:
 
 A implementação de cada workflow deverá ser documentada conforme os testes e resultados forem realizados.
 
+Observação sobre o estágio do projeto: este exemplo representa uma proposta conceitual elaborada durante a pesquisa no Gemini Notebook. O workflow ainda não foi implementado nem testado na prática. A implementação e a documentação dos resultados serão realizadas nas próximas etapas do bootcamp.
+
 ## 🧭 Diretrizes de estudo
 
 - Priorizar fontes oficiais e documentação técnica.
